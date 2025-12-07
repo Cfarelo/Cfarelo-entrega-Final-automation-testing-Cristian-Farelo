@@ -1,8 +1,12 @@
-# pre-entrega-automation-testing--Cristian-Farelo-.
+# Entrega final -automation-testing--Cristian-Farelo-.
 
 Proposito del proyecto: realizar testeos de prueba automatizados en el sitio "https://www.saucedemo.com"
 
 tecnologias utilizadas: python - pytest - selenium web driver - git - conceptos de html y css
+Test de API Http requests: GET, POST, PUT, PATCH, DELETE utlizando diferentes origenes de datos (CSV y JSON).
+
+herramientas auxiliares utilizadas
+Markers, Fixtures, Captura de pantalla y Logging
 
 para ejecucion de test especificos utilizamos los comandos:
 
