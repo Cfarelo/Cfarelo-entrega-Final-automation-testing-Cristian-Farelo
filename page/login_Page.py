@@ -31,6 +31,7 @@ class Login:
         WebDriverWait(self.driver, 4).until(EC.element_to_be_clickable(self.IMPUT_PASSWORD)).send_keys(password)
         WebDriverWait(self.driver, 4).until(EC.element_to_be_clickable(self.LOGINBUTTON)).click()
     
+   
         
 
 
